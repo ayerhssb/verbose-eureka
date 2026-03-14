@@ -146,7 +146,7 @@ const projects = [
     ),
     desc: "My portfolio website in terminal version developed with React and TypeScript.",
     tags: ["TypeScript", "CSS", "React"],
-    liveUrl: "",
+    liveUrl: "https://terminal-portfolio-blue-eight.vercel.app/",
     codeUrl: "https://github.com/ayerhssb/terminal-portfolio",
     bgColor: "bg-[#C5E4E7]",
     githubApi: ""
